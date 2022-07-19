@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import NavBar from '../components/NavBar'
 export default class Homepage extends Component {
-  render() {
+  render() {git 
     return (
       <div>
         <NavBar/>
